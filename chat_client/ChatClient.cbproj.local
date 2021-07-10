@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/03 15:41:47.000.102,=C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/05/03 15:41:47.000.868,=C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/05/03 15:42:13.000.533,C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\chat_server\Unit1.cpp=C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/05/03 15:42:13.000.533,C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\chat_server\Unit1.h=C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/05/03 15:42:13.000.533,C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\chat_server\Unit1.dfm=C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/05/03 15:42:14.000.981,C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\chat_server\Project1PCH1.h=C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/05/03 15:42:15.000.984,C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\chat_server\Project1.cbproj=C:\Users\Crspy\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/06/03 16:51:35.000.764,C:\Users\Crspy\Desktop\chat_client\Project1.cbproj=C:\Users\Crspy\Desktop\chat_client\ChatClient.cbproj</Transaction>
+    <Transaction>2021/06/03 16:51:35.000.753,C:\Users\Crspy\Desktop\chat_client\Project1PCH1.h=C:\Users\Crspy\Desktop\chat_client\ChatClientPCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="ChatClientPCH1.h"/>
+    <File Path="ChatClient.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
